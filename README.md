@@ -18,6 +18,7 @@ Everyone will receive this message, but only the person wih that name will reply
 some pictures for the app:
 launch the app using testSocket class
 please note Iam using my name (aissa) to recieve broaddcast. you can change it in TestSocket class
+  <img width="578" alt="mywindow" src="https://user-images.githubusercontent.com/45210683/57794824-80786000-7712-11e9-96ec-4815dab3519d.png">
 
 
 
