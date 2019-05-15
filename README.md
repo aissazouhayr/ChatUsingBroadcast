@@ -10,7 +10,7 @@ Please note that the name of the person should be one word with no spaces.
 
 Everyone will receive this message, but only the person wih that name will reply with a String formatted as follows: 
 
-"##### name-of-other-person ##### ww.xx.yy.zz" 
+           "##### name-of-other-person ##### ww.xx.yy.zz" 
 
 
 
