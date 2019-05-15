@@ -19,6 +19,10 @@ some pictures for the app:
 launch the app using testSocket class
 please note Iam using my name (aissa) to recieve broaddcast. you can change it in TestSocket class
   <img width="578" alt="mywindow" src="https://user-images.githubusercontent.com/45210683/57794824-80786000-7712-11e9-96ec-4815dab3519d.png">
+  
+  
+  
+  when a receiver with his name and IP a chat window is opened 
 
 
 
